@@ -1,6 +1,0 @@
-\babel@toc {spanish}{}\relax 
-\contentsline {section}{\numberline {I}Introducción}{1}{}%
-\contentsline {section}{\numberline {II}Antecedentes}{1}{}%
-\contentsline {section}{\numberline {III}Equivalentes electrónicos de los sentidos humanos}{2}{}%
-\contentsline {section}{\numberline {IV}Referencias}{2}{}%
-\contentsline {section}{Referencias}{2}{}%
